@@ -13,7 +13,7 @@ public class NumberPalindrome {
 
         int originalNumber = number;
 
-r
+
         while(number > 0) {
 
             int lastDigit = 0;
